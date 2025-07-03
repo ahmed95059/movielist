@@ -1,4 +1,4 @@
-# 📘 Learn React in One Project
+
 
 A beginner-friendly React project that helps you learn the core concepts of React by building a simple and interactive web app.
 ---
