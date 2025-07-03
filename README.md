@@ -13,7 +13,7 @@ A beginner-friendly React project that helps you learn the core concepts of Reac
 ---
 
 ## 🚀 Getting Started
--git clone https://github.com/techwithtim/Learn-React-In-One-Project.git
+-git clone https://github.com/ahmed95059/movielist.git
 -cd Learn-React-In-One-Project
 -npm install
 -npm start
